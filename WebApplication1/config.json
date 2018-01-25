@@ -1,0 +1,20 @@
+﻿{
+  "AppSettings": {
+    "DefaultConnection": "Server=tg7\\MSSQLSERVER16,138;Database=testdb;Trusted_Connection=True;MultipleActiveResultSets=true;Connect Timeout=30;",
+    "SiteTitle": "ASP.NET MVC Music Store",
+    "CacheDbResults": true
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Information"
+    }
+  },
+  "DefaultAdminUsername": "Administrator@test.com",
+  "DefaultAdminPassword": "YouShouldChangeThisPassword1!",
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=tg7\\MSSQLSERVER16,138;Database=testdb;Trusted_Connection=True;MultipleActiveResultSets=true;Connect Timeout=30;"
+    }
+  }
+}
